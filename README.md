@@ -1,4 +1,4 @@
-###Descriere
+Descriere
 \
 Am creat proiectul calculator simplu, care reprezinta o aplicatie
 de tip mini - calculator, implementata in limbajul de programare Python. 
@@ -11,9 +11,9 @@ inmultire, impartire si setarea valorii curente.\
 Pentru a iesi din aplicatie, putem introduce comanda "x", dupa care aplicatia
 ne returneaza mesajul de "La revedere" si valoarea actuala al calculatorului.\
 In cazul in care o comanda nu poate fi inteleasa sau executata, aplicatia ne
-va returna un mesaj de eroare.\
+va returna un mesaj de eroare.
 
-###Utilizarea aplicatiei
+Utilizarea aplicatiei
 1. Ruleaza scriptul calculator_simplu.py intr-un mediu Python.
 2. Introdu valoarea initiala,cand aceasta este solicitata.
 3. Introdu comenzi aritmetice pentru a efectua operatii pe 
@@ -21,7 +21,7 @@ valoarea curenta a calculatorului.
 4. Pentru a iesi din aplicatie, introdu comanda "x".
 
 
-###Comenzi acceptate
+Comenzi acceptate
 - adunare: +număr - adună la valoarea curentă numărul respectiv
 - scadere: -număr - scade din valoarea curentă numărul respectiv
 - inmultire: *număr - înmulțește valoarea curentă numărul respectiv 
@@ -29,7 +29,7 @@ valoarea curenta a calculatorului.
 - setare valoare curenta: =număr - setează valoarea curentă cu numărul respectiv
 - iesire din program: x
 
-###Exemplu de utilizare
+Exemplu de utilizare
 
 >Introduceți valoarea inițială (implicit 0): 0\
 > +8\
@@ -46,7 +46,8 @@ valoarea actuala este : 15.0\
 La revedere!\
 valoarea actuala este : 15.0
 
-###Structura proiectului
+Structura proiectului\
+
 => calculators - un Python Package, care contine 
 fisierele:
 - __ init __.py
