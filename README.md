@@ -1,3 +1,5 @@
+##CalculatorApp
+
 Descriere
 \
 Am creat proiectul calculator simplu, care reprezinta o aplicatie
@@ -46,7 +48,7 @@ valoarea actuala este : 15.0\
 La revedere!\
 valoarea actuala este : 15.0
 
-Structura proiectului\
+Structura proiectului
 
 => calculators - un Python Package, care contine 
 fisierele:
